@@ -19,38 +19,36 @@ Description
 The data is organized in the following way:
 ```
 data
-└── names
-    ├── gold
-    │   ├── ar.json
-    │   ├── de.json
-    ... ...
-    ├── m-nta
-    │   ├── with_gpt-3
-    │   │   ├── ar.m-nta.json
-    │   │   ├── de.m-nta.json
-    ... ... ...
-    │   ├── with_gpt-3.5
-    │   │   ├── ar.m-nta.json
-    │   │   ├── de.m-nta.json
-    ... ... ...
-    │   └── with_gpt-4
-    │       ├── ar.m-nta.json
-    │       ├── de.m-nta.json
-    ... ... ...
-    └── gpt
-    │   ├── ar.gpt-3.json
-    │   ├── de.gpt-3.json
+└── prompts
+    ├── t2vprompts.json
     ... ...
 
-    └── wikidata
-        ├── ar.json
-        ├── de.json
-        ...
-        └── zh.json
+└── videos
+    ├── runwaygen-2
+    │   ├── standard
+    │   │   ├── 1.mp4
+    │   │   ├── 2.mp4
+    │   ├── factv
+    │   │   ├── ar.m-nta.json
+    │   │   ├── de.m-nta.json
+    ... ...
+    ├── runwaygen2-factv
+    │   ├── 1.mp4
+    │   ├── 2.mp4
+    ... ... ...
+    │   ├── cogvideox2b
+    │   ├── 1.mp4
+    │   ├── 2.mp4
+    ... ... ...
+    │   └── cogvideox2b
+    │   ├── 1.mp4
+    │   ├── 2.mp4
+    ... ...
+
 ```
 Where:
-* `data/names/gold/` contains the human-curated data.
-* `data/names/m-nta/` contains the predictions from M-NTA.
+* `data/prompts/t2vprompts.json` contains the t2v prompts.
+* `data/videos/...` contains the video
 * `data/names/gpt/` contains the predictions from GPT-3 and GPT-3.5 (May 2023), and also GPT-4 (September 2023).
 * `data/names/wikidata/` contains the data from Wikidata (May 2023).
 
