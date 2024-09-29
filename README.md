@@ -20,29 +20,31 @@ The data is organized in the following way:
 ```
 data
 └── prompts
-    ├── t2vprompts.json
+    ├── t2vprompts.jsonl
+    ... ...
+
+└── results
+    ├── modelcomparisons.jsonl
     ... ...
 
 └── videos
     ├── runwaygen-2
     │   ├── standard
-    │   │   ├── 1.mp4
-    │   │   ├── 2.mp4
+    │   │   ├── 1_gen2.mp4
+    │   │   ├── 2_gen2.mp4
     │   ├── factv
-    │   │   ├── ar.m-nta.json
-    │   │   ├── de.m-nta.json
-    ... ...
-    ├── runwaygen2-factv
-    │   ├── 1.mp4
-    │   ├── 2.mp4
+    │   │   ├── 1_gen2_factv.mp4
+    │   │   ├── 2_gen2_factv.mp4
+
     ... ... ...
-    │   ├── cogvideox2b
-    │   ├── 1.mp4
-    │   ├── 2.mp4
-    ... ... ...
-    │   └── cogvideox2b
-    │   ├── 1.mp4
-    │   ├── 2.mp4
+    ├── runwaygen-2
+    │   ├── standard
+    │   │   ├── 1_cvx.mp4
+    │   │   ├── 2_cvx.mp4
+    │   ├── factv
+    │   │   ├── 1_cvx_factv_factv.mp4
+    │   │   ├── 2_cvx_factv.mp4
+
     ... ...
 
 ```
