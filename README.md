@@ -17,16 +17,15 @@ Description
 
 ### Dataset Organization (example placed)
 The data is organized in the following way:
+
 ```
 data
 └── prompts
     ├── t2vprompts.jsonl
-    ... ...
-
+    ... 
 └── results
     ├── modelcomparisons.jsonl
-    ... ...
-
+    ... 
 └── videos
     ├── runwaygen-2
     │   ├── standard
@@ -35,24 +34,21 @@ data
     │   ├── factv
     │   │   ├── 1_gen2_factv.mp4
     │   │   ├── 2_gen2_factv.mp4
-
     ... ... ...
-    ├── runwaygen-2
+    ├── cogvideox
     │   ├── standard
     │   │   ├── 1_cvx.mp4
     │   │   ├── 2_cvx.mp4
     │   ├── factv
     │   │   ├── 1_cvx_factv_factv.mp4
     │   │   ├── 2_cvx_factv.mp4
-
-    ... ...
-
 ```
+
 Where:
-* `data/prompts/t2vprompts.json` contains the t2v prompts.
-* `data/videos/...` contains the video
-* `data/names/gpt/` contains the predictions from GPT-3 and GPT-3.5 (May 2023), and also GPT-4 (September 2023).
-* `data/names/wikidata/` contains the data from Wikidata (May 2023).
+* `data/prompts/t2vprompts.jsonl` contains the t2v prompts.
+* `data/results/modelcomparisons.jsonl` contains comparisons between models. 
+* `data/videos/runwaygen-2/` contains generated videos from RunwayML's Gen-2 and FACT-V.
+* `data/videos/cogvideox/` contains generated videos from CogVideoX and FACT-V.
 
 ## Citation
 Please cite our work if you found FACT-V, our [paper](), or these resources useful.
