@@ -22,8 +22,8 @@ data
     ├── t2vprompts.json
     ... 
 └── results
-    ├── factuality.json
-    ├── textalignment.json
+    ├── runwaygen2.json
+    ├── cogvideox.json
     ... 
 └── videos
     ├── runwaygen-2
@@ -39,7 +39,7 @@ data
     │   │   ├── 1_cvx.mp4
     │   │   ├── 2_cvx.mp4
     │   ├── factv
-    │   │   ├── 1_cvx_factv_factv.mp4
+    │   │   ├── 1_cvx_factv.mp4
     │   │   ├── 2_cvx_factv.mp4
 ```
 
@@ -56,22 +56,22 @@ Here's an sample of the prompts in `data/prompts/t2vprompts.json`:
 
 ```json
 {
-    "prompt_id": "1",
-    "prompt_text": "XXX",
-    "common_errors": ["giudizio morale", "moralita'", "legge morale"]
+    "prompt_id": "6",
+    "prompt_text": "Scientist discovering the first leprosy treatment.",
+    "common_errors": "Alice Ball first discovered the first treatment for leprosy. She was a black female scientist."
 }
 ```
 
 ## Model Comparison
 Description
 
-Here's an sample of the prompts in `data/prompts/t2vprompts.json`:
+Here's an example result in `data/results/...`:
 
 ```json
 {
     "prompt_id": "1",
     "metric": "factuality",
-    "human_annotation": ["same", "factv'", "standard"]
+    "human_annotation": ["factv", "same'", "standard"]
 }
 ```
 
