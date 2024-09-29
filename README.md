@@ -22,7 +22,8 @@ data
     ├── t2vprompts.json
     ... 
 └── results
-    ├── modelcomparisons.json
+    ├── factuality.json
+    ├── textalignment.json
     ... 
 └── videos
     ├── runwaygen-2
@@ -58,6 +59,19 @@ Here's an sample of the prompts in `data/prompts/t2vprompts.json`:
     "prompt_id": "1",
     "prompt_text": "XXX",
     "common_errors": ["giudizio morale", "moralita'", "legge morale"]
+}
+```
+
+## Model Comparison
+Description
+
+Here's an sample of the prompts in `data/prompts/t2vprompts.json`:
+
+```json
+{
+    "prompt_id": "1",
+    "metric": "factuality",
+    "human_annotation": ["same", "factv'", "standard"]
 }
 ```
 
