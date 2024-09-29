@@ -19,10 +19,10 @@ The data is organized in the following way:
 ```
 data
 └── prompts
-    ├── t2vprompts.jsonl
+    ├── t2vprompts.json
     ... 
 └── results
-    ├── modelcomparisons.jsonl
+    ├── modelcomparisons.json
     ... 
 └── videos
     ├── runwaygen-2
