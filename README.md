@@ -10,9 +10,6 @@ Text-to-Video (T2V) models, despite recent advancements, struggle with factual a
 
 Please refer to our (Under Review) paper for more details, [Rewind and Render: Towards Factually Accurate Text-to-Video Generation with Distilled Knowledge Retrieval](Paper Link TBD). 
 
-## Task Description
-
-
 ## Data Organization
 The data is organized in the following way:
 
@@ -50,9 +47,7 @@ Where:
 * `data/videos/cogvideox/` contains generated videos from CogVideoX and FACT-V.
 
 ## Prompt Directory
-Description
-
-Here's an sample of the prompts in `data/prompts/t2vprompts.json`:
+Here's a sample prompt in `data/prompts/t2vprompts.json`:
 
 ```json
 {
@@ -63,8 +58,6 @@ Here's an sample of the prompts in `data/prompts/t2vprompts.json`:
 ```
 
 ## Model Comparison
-Description
-
 Here's an example result in `data/results/...`:
 
 ```json
