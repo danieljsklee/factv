@@ -1,0 +1,502 @@
+[
+    {
+        "prompt_id": "1",
+        "metric": "factuality",
+        "human_annotation": ["factv", "same", "factv"]
+    },
+    {
+        "prompt_id": "2",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "3",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "4",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "5",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "6",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "7",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "8",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "9",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "10",
+        "metric": "factuality",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "11",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "12",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "13",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "14",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "15",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "16",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "17",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "18",
+        "metric": "factuality",
+        "human_annotation": ["factv", "same", "same"]
+    },
+    {
+        "prompt_id": "19",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "20",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "21",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "22",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "23",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "24",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "25",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "26",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "27",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "28",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "29",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "30",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "31",
+        "metric": "factuality",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "32",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "33",
+        "metric": "factuality",
+        "human_annotation": ["factv", "same", "factv"]
+    },
+    {
+        "prompt_id": "34",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "35",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "36",
+        "metric": "factuality",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "37",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "38",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "39",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "40",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "41",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "42",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "43",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "44",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "45",
+        "metric": "factuality",
+        "human_annotation": ["factv", "same", "factv"]
+    },
+    {
+        "prompt_id": "46",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "47",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "48",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "49",
+        "metric": "factuality",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "50",
+        "metric": "factuality",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "1",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "2",
+        "metric": "alignment",
+        "human_annotation": ["factv", "same", "same"]
+    },
+    {
+        "prompt_id": "3",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "4",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "5",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "6",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "7",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "8",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "9",
+        "metric": "alignment",
+        "human_annotation": ["same", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "10",
+        "metric": "alignment",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "11",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "12",
+        "metric": "alignment",
+        "human_annotation": ["cvx", "factv", "factv"]
+    },
+    {
+        "prompt_id": "13",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "14",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "15",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "16",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "17",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "18",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "19",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "20",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "21",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "22",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "23",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "24",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "25",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "26",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "27",
+        "metric": "alignment",
+        "human_annotation": ["factv", "same", "same"]
+    },
+    {
+        "prompt_id": "28",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "29",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "30",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "31",
+        "metric": "alignment",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "32",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "33",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "34",
+        "metric": "alignment",
+        "human_annotation": ["same", "factv", "same"]
+    },
+    {
+        "prompt_id": "35",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "36",
+        "metric": "alignment",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "37",
+        "metric": "alignment",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "38",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "39",
+        "metric": "alignment",
+        "human_annotation": ["cvx", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "40",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "41",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "42",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "43",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "44",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "45",
+        "metric": "alignment",
+        "human_annotation": ["factv", "factv", "factv"]
+    },
+    {
+        "prompt_id": "46",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "47",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "48",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "same"]
+    },
+    {
+        "prompt_id": "49",
+        "metric": "alignment",
+        "human_annotation": ["same", "cvx", "cvx"]
+    },
+    {
+        "prompt_id": "50",
+        "metric": "alignment",
+        "human_annotation": ["same", "same", "factv"]
+    }
+]

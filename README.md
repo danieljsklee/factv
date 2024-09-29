@@ -66,7 +66,7 @@ Here's an example result in `data/results/...`:
 {
     "prompt_id": "1",
     "metric": "factuality",
-    "human_annotation": ["factv", "same'", "standard"]
+    "human_annotation": ["factv", "same'", "gen2"]
 }
 ```
 

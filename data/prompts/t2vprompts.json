@@ -1,0 +1,252 @@
+[
+    {
+        "prompt_id": "1",
+        "prompt_text": "Man messaging his wife during the Antebellum Period",
+        "common_errors": "The primary mode of communication during the Antebellum period was by letter, and smartphones did not exist at the time."
+    },
+    {
+        "prompt_id": "2",
+        "prompt_text": "Mount Fuji in the summer",
+        "common_errors": "Mount Fuji's peak typically lacks snow during summer months."
+    },
+    {
+        "prompt_id": "3",
+        "prompt_text": "Winter tourists looking onto the Buddhas of Bamiyan in 2024",
+        "common_errors": "In 2001, the Taliban destroyed the Buddhas of Bamiyan, leaving empty niches. There is also heavy snow in Afghanistan in the winter."
+    },
+    {
+        "prompt_id": "4",
+        "prompt_text": "Recipients in 1903 being awarded the nobel prize in physics",
+        "common_errors": "The 1903 Nobel Prize in Physics was awarded to Henri Becquerel, Pierre Curie, and Marie Curie, two French men and one Polish-French woman."
+    },
+    {
+        "prompt_id": "5",
+        "prompt_text": "Ongoing fights in the Boxer Rebellion",
+        "common_errors": "The Boxer Rebellion involved both Asian and white participants, and it was a conflict fought in China between Chinese nationalists and foreign powers."
+    },
+    {
+        "prompt_id": "6",
+        "prompt_text": "Scientist discovering the first leprosy treatment.",
+        "common_errors": "Alice Ball discovered the first treatment for leprosy. She was a black female scientist."
+    },
+    {
+        "prompt_id": "7",
+        "prompt_text": "Scientist discovering radium in a laboratory",
+        "common_errors": "Pierre and Marie Curie, a French man and Polish-French woman, first discovered radium."
+    },
+    {
+        "prompt_id": "8",
+        "prompt_text": "Nobel Prize-winning author of the book titled 'The God of Small Things'",
+        "common_errors": "Arundhati Roy, an Indian female author, won the Nobel Prize for literature and wrote 'The God of Small Things'."
+    },
+    {
+        "prompt_id": "9",
+        "prompt_text": "Chemists who discovered the structure of DNA",
+        "common_errors": "The double-helix structure of DNA was discovered by Francis Crick, James Watson, Maurice Wilkins, and Rosalind Franklin. Franklin was a female British chemist."
+    },
+    {
+        "prompt_id": "10",
+        "prompt_text": "The first computer programmer writing code by candlelight.",
+        "common_errors": "Ada Lovelace, an English female mathematician, is recognized as the first computer programmer for her pioneering work in computing during the 19th century."
+    },
+    {
+        "prompt_id": "11",
+        "prompt_text": "Statue of Liberty in 1890",
+        "common_errors": "In 1890, the Statue of Liberty was composed of bronze and copper, not yet exhibiting its characteristic green patina."
+    },
+    {
+        "prompt_id": "12",
+        "prompt_text": "Building Mount Rushmore in 1934",
+        "common_errors": "In 1934, only the face of George Washington had been completed and dedicated. The faces of the other U.S. presidents were only completed and dedicated from 1936 onwards."
+    },
+    {
+        "prompt_id": "13",
+        "prompt_text": "The founder of modern nursing",
+        "common_errors": "Florence Nightingale, an English female statistician, is recognized as the founder of modern nursing for her significant contributions to healthcare and hospital reform."
+    },
+    {
+        "prompt_id": "14",
+        "prompt_text": "The Ancient Egyptian Pyramids when they were first built",
+        "common_errors": "The Ancient Egyptian pyramids were covered in shiny white limestone when they were first built."
+    },
+    {
+        "prompt_id": "15",
+        "prompt_text": "The Parthenon in Athens in the 5th century BC",
+        "common_errors": "The Parthenon during the 5th century BC had not yet been destroyed by the Ottomans (1687)."
+    },
+    {
+        "prompt_id": "16",
+        "prompt_text": "Live performance of the album 'Songs in the Key of Life' in 1976",
+        "common_errors": "Stevie Wonder, a Black male artist, performed the album 'Songs in the Key of Life' live in 1976."
+    },
+    {
+        "prompt_id": "17",
+        "prompt_text": "Great Sphinx of Giza in 2024",
+        "common_errors": "The Great Sphinx of Giza is missing its nose and has experienced significant decomposition due to erosion."
+    },
+    {
+        "prompt_id": "18",
+        "prompt_text": "Leader of the Haitian Revolution",
+        "common_errors": "The leader of the Haitian Revolution was Toussaint Louverture, a Black male figure who played a crucial role in the fight for Haiti's independence."
+    },
+    {
+        "prompt_id": "19",
+        "prompt_text": "Dialing a phone in 2001",
+        "common_errors": "In 2001, flip phones were the most common type of mobile phone used."
+    },
+    {
+        "prompt_id": "20",
+        "prompt_text": "President of America making speech in 2009",
+        "common_errors": "Barack Obama, a Black male, was the president of the United States in 2009."
+    },
+    {
+        "prompt_id": "21",
+        "prompt_text": "Men shooting each other in the Battle of Sekigahara",
+        "common_errors": "The Battle of Sekigahara was fought by Japanese forces, primarily using bows and arrows."
+    },
+    {
+        "prompt_id": "22",
+        "prompt_text": "Lead singer in the Super Bowl halftime show in 2016",
+        "common_errors": "Chris Martin, the lead singer of Coldplay, is a British male and led the Super Bowl halftime performance in 2016."
+    },
+    {
+        "prompt_id": "23",
+        "prompt_text": "Einstein in school in 1889",
+        "common_errors": "Albert Einstein was 10 years old in 1889."
+    },
+    {
+        "prompt_id": "24",
+        "prompt_text": "The founder of the streaming service Tidal giving a speech",
+        "common_errors": "Tidal was founded by Jörgen Adolfsson, Christer Månsson, and Klas Hallqvist (Swedish men) and later acquired by Jay-Z, an African American male."
+    },
+    {
+        "prompt_id": "25",
+        "prompt_text": "Current vice president of the United States running for office",
+        "common_errors": "Kamala Harris, a Black and South Asian American female, is the current vice president of the United States."
+    },
+    {
+        "prompt_id": "26",
+        "prompt_text": "An American figure skater winning a gold medal at the Winter Olympics in the early 1990s",
+        "common_errors": "Kristi Yamaguchi, a Japanese American female figure skater, won the gold medal at the 1992 Winter Olympics."
+    },
+    {
+        "prompt_id": "27",
+        "prompt_text": "Molly Oyama writing a news story on social reform",
+        "common_errors": "Mary Teiko Oyama Mittwer was a Japanese American journalist known for her work on civil rights and social reform in the 1940s."
+    },
+    {
+        "prompt_id": "28",
+        "prompt_text": "Statue overlooking Rio de Janeiro",
+        "common_errors": "The Christ the Redeemer statue in Rio de Janeiro is an Art Deco depiction of Jesus Christ with outstretched arms."
+    },
+    {
+        "prompt_id": "29",
+        "prompt_text": "Paris being unveiled for the world's fair in 1889",
+        "common_errors": "The Eiffel Tower, unveiled for the 1889 World's Fair, was originally painted red, not the iconic steel color it has today."
+    },
+    {
+        "prompt_id": "30",
+        "prompt_text": "The Colosseum in ancient Rome",
+        "common_errors": "In ancient times, the Colosseum would not have had modern day tourists."
+    },
+    {
+        "prompt_id": "31",
+        "prompt_text": "First pilgrims land in Plymouth",
+        "common_errors": "The Pilgrims arrived in Plymouth, Massachusetts, on the Mayflower in 1620."
+    },
+    {
+        "prompt_id": "32",
+        "prompt_text": "The Boston Tea Party in 1773",
+        "common_errors": "The Boston Tea Party occurred on December 16, 1773, when 340 chests of tea were dumped into Boston Harbor."
+    },
+    {
+        "prompt_id": "33",
+        "prompt_text": "Benjamin Franklin discovers electricity",
+        "common_errors": "Benjamin Franklin conducted his famous kite experiment to discover the connection between lightning and electricity."
+    },
+    {
+        "prompt_id": "34",
+        "prompt_text": "The first Thanksgiving feast",
+        "common_errors": "The first Thanksgiving feast took place in 1621 between the Wampanoag Native Americans and the English Pilgrims in Plymouth, Massachusetts."
+    },
+    {
+        "prompt_id": "35",
+        "prompt_text": "Anna Mary Robertson painting in her studio",
+        "common_errors": "Anna Mary Robertson, known as Grandma Moses, was an American folk artist who began painting in her late 70s."
+    },
+    {
+        "prompt_id": "36",
+        "prompt_text": "The assassination of Abraham Lincoln",
+        "common_errors": "John Wilkes Booth assassinated Abraham Lincoln at Ford's Theatre on April 14, 1865."
+    },
+    {
+        "prompt_id": "37",
+        "prompt_text": "The first McDonald's location bustling",
+        "common_errors": "The McDonald brothers opened their first restaurant next to the Monrovia Airport in 1937."
+    },
+    {
+        "prompt_id": "38",
+        "prompt_text": "Celebration of the Ubon Festival in Japan",
+        "common_errors": "The Obon festival is an annual Japanese Buddhist holiday typically celebrated in mid-August, during which people honor their ancestors' spirits by visiting graves, making offerings, lighting lanterns, and performing traditional dances."
+    },
+    {
+        "prompt_id": "39",
+        "prompt_text": "People celebrating the Christmas mascot in Sweden",
+        "common_errors": "The Yule Goat is the traditional Swedish Christmas mascot."
+    },
+    {
+        "prompt_id": "40",
+        "prompt_text": "Baby's 100th day in Korea",
+        "common_errors": "In Korea, a baby's 100th day is celebrated through the traditional event called 'baek-il'."
+    },
+    {
+        "prompt_id": "41",
+        "prompt_text": "The Salt March",
+        "common_errors": "The Salt March, a civil disobedience act led by Mohandas Gandhi, occurred in India from March to April 1930."
+    },
+    {
+        "prompt_id": "42",
+        "prompt_text": "New Jeans in Korea dancing",
+        "common_errors": "NewJeans is a five-member South Korean girl group."
+    },
+    {
+        "prompt_id": "43",
+        "prompt_text": "Streets of Russia on Jan 7",
+        "common_errors": "Christmas is celebrated in Russia on January 7."
+    },
+    {
+        "prompt_id": "44",
+        "prompt_text": "CEO of Xerox in 2012",
+        "common_errors": "In 2012, Ursula M. Burns, an African American woman, was the CEO of Xerox and the first Black woman to lead a Fortune 500 company."
+    },
+    {
+        "prompt_id": "45",
+        "prompt_text": "All the prime ministers from Canada",
+        "common_errors": "Only one out of Canada's 23 prime ministers has been female since 1867, with most being of British or French Canadian descent."
+    },
+    {
+        "prompt_id": "46",
+        "prompt_text": "2012 Wimbledon women's championship match",
+        "common_errors": "Serena Williams, an African American tennis player, won the 2012 Wimbledon women's singles championship by defeating Agnieszka Radwańska."
+    },
+    {
+        "prompt_id": "47",
+        "prompt_text": "Fiji in the cold winter",
+        "common_errors": "Fiji experiences warm tropical weather year-round, even in December, with no snow or cold winters."
+    },
+    {
+        "prompt_id": "48",
+        "prompt_text": "People walking around Rjukan in October",
+        "common_errors": "Rjukan, Norway experiences nearly six months of darkness due to its valley location, beginning in October."
+    },
+    {
+        "prompt_id": "49",
+        "prompt_text": "The Palmyra Temple of Bel today",
+        "common_errors": "The Temple of Bel in Palmyra, Syria, was destroyed by ISIS in 2015, leaving ruins in place of the original structure."
+    },
+    {
+        "prompt_id": "50",
+        "prompt_text": "Programmer for NASA writing the Apollo Code",
+        "common_errors": "Margaret Hamilton, an American female computer scientist, led the team that developed the onboard flight software for the Apollo missions."
+    }
+]
