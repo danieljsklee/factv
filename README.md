@@ -1,10 +1,12 @@
 # FACT-V: Factual Accuracy in Content Translation to Video
 
 [**Task Description**](#task-description) |
-[**FactT2V-50**](#wikikge-10) |
+[**Dataset**](#data-organization) |
 [**Paper**](Paper Link TBD) |
 [**Citation**](#citation) |
 [**License**](#license)
+
+## Task Description
 
 Text-to-Video (T2V) models, despite recent advancements, struggle with factual accuracy, especially for knowledge-dense content. We introduce FACT-V (Factual Accuracy in Content Translation to Video), a system integrating multi-source knowledge retrieval into T2V pipelines. FACT-V offers two key benefits: i) improved factual accuracy of generated videos through dynamically retrieved information, and ii) increased interpretability by providing users with the augmented prompt information. A lightweight evaluation demonstrates the potential of knowledge-augmented approaches in improving T2V systems' accuracy and reliability, particularly for entity-specific or time-sensitive prompts.
 
@@ -46,7 +48,7 @@ Where:
 * `data/videos/runwaygen-2/` contains generated videos from RunwayML's Gen-2 and FACT-V.
 * `data/videos/cogvideox/` contains generated videos from CogVideoX and FACT-V.
 
-## Prompt Directory
+### Prompt Directory
 Here's a sample prompt in `data/prompts/t2vprompts.json`:
 
 ```json
@@ -57,7 +59,7 @@ Here's a sample prompt in `data/prompts/t2vprompts.json`:
 }
 ```
 
-## Model Comparison
+### Model Comparison
 Here's an example result in `data/results/...`:
 
 ```json
