@@ -71,7 +71,7 @@ Here's an example result in `data/results/...`:
 ```
 
 ## Citation
-Please cite our work if you found FACT-V, our [paper](), or these resources useful.
+Please cite our work if you found FACT-V, our paper, or these resources useful.
 
 ```bibtex
 Under Review - To be determined.
