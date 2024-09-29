@@ -12,10 +12,8 @@ Please refer to our (Under Review) paper for more details, [Rewind and Render: T
 
 ## Task Description
 
-## FactT2V-50
-Description
 
-### Dataset Organization (example placed)
+### Data Organization
 The data is organized in the following way:
 
 ```
@@ -45,10 +43,23 @@ data
 ```
 
 Where:
-* `data/prompts/t2vprompts.jsonl` contains the t2v prompts.
-* `data/results/modelcomparisons.jsonl` contains comparisons between models. 
+* `data/prompts/t2vprompts.json` contains the t2v prompts.
+* `data/results/modelcomparisons.json` contains comparisons between models. 
 * `data/videos/runwaygen-2/` contains generated videos from RunwayML's Gen-2 and FACT-V.
 * `data/videos/cogvideox/` contains generated videos from CogVideoX and FACT-V.
+
+## Prompt Directory
+Description
+
+Here's an sample of the prompts in `data/prompts/t2vprompts.json`:
+
+```json
+{
+    "prompt_id": "1",
+    "prompt_text": "XXX",
+    "common_errors": ["giudizio morale", "moralita'", "legge morale"]
+}
+```
 
 ## Citation
 Please cite our work if you found FACT-V, our [paper](), or these resources useful.
