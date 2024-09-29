@@ -13,7 +13,7 @@ Please refer to our (Under Review) paper for more details, [Rewind and Render: T
 ## Task Description
 
 
-### Data Organization
+## Data Organization
 The data is organized in the following way:
 
 ```
