@@ -45,8 +45,8 @@ data
 Where:
 * `data/prompts/t2vprompts.json` contains the t2v prompts.
 * `data/results/...` contains comparisons between models. 
-* `data/videos/runwaygen-2/` contains generated videos from RunwayML's Gen-2 and FACT-V.
-* `data/videos/cogvideox/` contains generated videos from CogVideoX and FACT-V.
+* `data/videos/runwaygen-2` contains generated videos from RunwayML's Gen-2 and FACT-V.
+* `data/videos/cogvideox` contains generated videos from CogVideoX and FACT-V.
 
 ### Prompt Directory
 Here's a sample prompt in `data/prompts/t2vprompts.json`:
