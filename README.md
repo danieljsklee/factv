@@ -72,5 +72,8 @@ Here's an example result in `data/results/...`:
 Please cite our work if you found FACT-V, our [paper](), or these resources useful.
 
 ```bibtex
-tbd
+Under Review - To be determined.
 ```
+
+## License
+The data is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en), see the [LICENSE_Wikidata.txt](LICENSE_Wikidata.txt) file.
